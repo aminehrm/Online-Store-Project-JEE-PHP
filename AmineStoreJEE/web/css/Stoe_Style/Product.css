@@ -1,0 +1,42 @@
+
+.producto-img {
+    width: 40%;
+    display: block;
+}
+
+.producto-img img {
+    max-width: 100%;
+    height: auto;
+}
+
+.producto-info {
+    width: 60%;
+    padding: 3%;
+}
+
+.producto-caracteristicas {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;  
+}
+
+.producto-caracteristicas div {
+    display: inline-block;
+    padding: 2% 5% 2% 5%;
+}
+
+#prodNombre {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+#prodPrecio {
+    color: orange;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#prodMarca {
+    color: #CCCCCC;
+}

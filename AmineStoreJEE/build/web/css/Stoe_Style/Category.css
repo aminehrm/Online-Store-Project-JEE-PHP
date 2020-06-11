@@ -1,0 +1,20 @@
+.nav-categoria {
+    list-style-type: none;
+    overflow: hidden;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.nav-categoria li > a {
+    display: block;
+    color: #30383B;
+    font-size: 0.8rem;
+    padding: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-categoria li > a:hover {
+    background-color: #30383B;
+    color:white;
+}

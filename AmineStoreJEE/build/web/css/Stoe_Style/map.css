@@ -1,0 +1,85 @@
+
+.carrito {
+    width: 80%;
+    display: flex;
+    margin: 3% 10%;
+    min-height: 57.5vh;
+}
+
+
+.carrito-resumen {
+    width: 30%;
+    padding: 1rem;
+}
+
+.carrito-resumen form {
+    border-radius: 0.25rem;
+    padding: 1rem;
+}
+
+.carrito-resumen div {
+    width: 100%;
+}
+
+.carrito-resumen div label {
+    width: 100%;
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: normal;
+}
+
+.carrito-resumen div label span {
+    float: right;
+    font-weight: bold;
+}
+
+.carrito-resumen input[type='submit'] {
+    margin-top:15px;
+    background-color: #2c3e50;
+    color: #FFFFFF;
+    border: 0;
+    border-radius: 0.25rem;
+    text-transform: uppercase;
+    width: 100%;
+    padding: 0.5rem; 
+    line-height: 3rem;
+}
+
+.carrito-resumen2 input[type='submit'] {
+
+    background-color:buttonface ;
+    color: black;
+    border: 0;
+    border-radius: 0.25rem;
+    width: 50%;
+    padding: 0.2rem; 
+    line-height: 1.5rem;
+    cursor:pointer;
+}
+
+.carrito-resumen3 input[type='submit'] {
+
+    background-color:buttonface ;
+    color: black;
+    border: 0;
+    border-radius: 0.25rem;
+    width: 20%;
+    padding: 0.2rem; 
+    line-height: 1.5rem;
+    cursor:pointer;
+}
+.carrito-resumen3 input[type='number'] {
+
+   
+
+    border-radius: 0.25rem;
+    width: 10%;
+    padding: 0.2rem; 
+ 
+}
+
+.carrito-table {
+    width: 70%;
+    padding: 1rem;
+}
+
